@@ -1,0 +1,55 @@
+.introduction{
+    color: white;
+    background-color: blue;
+}
+#lorem, p{
+    border: 3px solid black;
+    background-color: aquamarine;
+    color: blueviolet;
+    font-size: larger;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-style: dashed;
+    border-bottom-right-radius: 8px;
+}
+.table{
+    background-image: url("./Asset/download\ \(1\).jpeg");
+    background-size: 200px;
+    background-repeat: no-repeat;
+    background-position: top right;
+    background-attachment: scroll;
+}
+.lorem{
+border-style: dashed solid solid dashed;
+border-width: 5px;
+border-color: rgb(red, green, blue);
+margin: 10px;
+padding: 100px;
+background-color: blue;
+}
+.Welcome{
+    text-align: center;
+}
+.ipsum{
+    text-align: center;
+}
+.Govlogo1{
+    width: 100px;
+    height: 100px;
+}
+.Govlogo2{
+    width: 100px;
+    height: 100px;
+}
+.Govlogo3{
+    width: 100px;
+    height: 100px;
+}
+
+.Govlogo4{
+    display: grid;
+    width: 100px;
+    height: 100px;
+    background-color: darkblue;
+    justify-content: space-between;
+
+}
